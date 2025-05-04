@@ -1,5 +1,9 @@
 venv/
 *.pyc
-__pycache__/
+pycache/
 .ipynb_checkpoints/
+.DS_Store
+*.csv
+*.xlsx
+*.xls
 
